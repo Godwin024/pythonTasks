@@ -13,7 +13,7 @@ for number in range (10):
         else:
             print(f"{count:>2}", end=" ")
             if number == 0 and count == 9:
-                 print("\n ---", end=" ")
+                 print("\n ----------------------------", end=" ")
          
         
          #multiply = number * count
